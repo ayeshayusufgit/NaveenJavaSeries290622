@@ -60,7 +60,7 @@ public class TestAmazon {
 		user.login("ibu@gmail.com","test123")
 				.logOut();
 			
-		System.out.println("Ending");		
+		System.out.println("Ending...");		
 	}
 
 }
